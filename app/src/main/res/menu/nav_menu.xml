@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+   <item android:title="DAYS">
+        <menu>
+            <item
+                android:id="@+id/day1"
+                android:title="DAY 1">
+            </item>
+            <item
+                android:id="@+id/day2"
+                android:title="DAY 2">
+            </item>
+            <item
+                android:id="@+id/day3"
+                android:title="DAY 3">
+            </item>
+            <item
+                android:id="@+id/day4"
+                android:title="DAY 4">
+            </item>
+            <item
+                android:id="@+id/day5"
+                android:title="DAY 5">
+            </item>
+            <item
+                android:id="@+id/day6"
+                android:title="DAY 6">
+            </item>
+            <item
+                android:id="@+id/day7"
+                android:title="DAY 7">
+            </item>
+            <item
+                android:id="@+id/day8"
+                android:title="DAY 8">
+            </item>
+            <item
+                android:id="@+id/day9"
+                android:title="DAY 9">
+            </item>
+            <item
+                android:id="@+id/day10"
+                android:title="DAY 10">
+            </item>
+            <item
+                android:id="@+id/day11"
+                android:title="DAY 11">
+            </item>
+            <item
+                android:id="@+id/day12"
+                android:title="DAY 12">
+            </item>
+            <item
+                android:id="@+id/day13"
+                android:title="DAY 13">
+            </item>
+            <item
+                android:id="@+id/day14"
+                android:title="DAY 14">
+            </item>
+
+       </menu>
+   </item>
+   <item android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:title="Logout"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527222481776",
+    "project_id": "covid-guide-app-23c4a",
+    "storage_bucket": "covid-guide-app-23c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527222481776:android:8684d4d87d7df5fe8aa5b5",
+        "android_client_info": {
+          "package_name": "com.example.covid_guide_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527222481776-jr7e6t08s3vum6nmc31346ganti31d4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOVmIkImzQINN8UD9Prta-UYgianAfpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527222481776-jr7e6t08s3vum6nmc31346ganti31d4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="16dp"
+    android:layout_marginEnd="16dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/usName"
+        android:paddingTop="8dp"
+        android:layout_marginStart="10dp"
+        android:textSize="20dp"
+        android:text="USER NAME"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/usEmail"
+        android:paddingTop="8dp"
+        android:layout_marginStart="10dp"
+        android:textSize="10dp"
+        android:text="example@gmail.com"
+        android:textColor="@color/black"
+        android:textStyle="normal"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/purple_700"/>
+
+
+</LinearLayout>
